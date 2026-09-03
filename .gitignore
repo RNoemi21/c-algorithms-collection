@@ -1,0 +1,12 @@
+*.o
+*.out
+*.exe
+*.bin
+
+
+*.dSYM/
+*.gch
+
+.vscode/
+.DS_Store
+Thumbs.db
