@@ -18,11 +18,12 @@ The goal is not merely the mechanical implementation of classic algorithms, but 
 ## Project Catalog
 
 Below is a summary of completed or ongoing experiments. Each folder contains the full source code and its own usage guide:
-s
+
 | # | Project | Concepts / Structures | Practical Application Explored |
 | :-: | :--- | :--- | :--- |
 | **01** | **The Maze** | Backtracking, DFS, Heuristics, 2D Matrices | 2D Grid Pathfinding, Shortest Route Optimization & Greedy Exploration |
 | **02** | **Task Dependency Scheduler** | DAGs, Kahn's Algorithm, Min-Heap / Priority Queue, In-Degree Tracking | Workflow Dependency Resolution, Build Pipelines & Deadlock/Cycle Detection |
+| **03** | **Streaming Interaction Network** | Directed Bipartite Graphs, 2-Coloring (BFS/DFS), Adjacency Matrix | User-Content Recommendation Engines, Watch History Modeling & Disjoint Set Verification |
 
 *(The table is updated periodically as I explore new scenarios.)*
 
